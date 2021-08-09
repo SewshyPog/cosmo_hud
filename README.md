@@ -23,6 +23,7 @@ Simple status HUD for FiveM and ESX inspired by NoPixel 3.0.
 ## Thanks to
 - https://github.com/GhzGarage/.
 - https://loading.io/progress/ for the loading-Bar library.
+- thanks to mirrox1337
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
